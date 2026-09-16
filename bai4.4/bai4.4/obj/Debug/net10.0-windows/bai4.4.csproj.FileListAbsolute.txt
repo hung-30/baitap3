@@ -1,0 +1,17 @@
+D:\Documents\C#\bai4.4\bai4.4\obj\Debug\net10.0-windows\bai4.4.csproj.GenerateResource.cache
+D:\Documents\C#\bai4.4\bai4.4\obj\Debug\net10.0-windows\bai4.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C#\bai4.4\bai4.4\obj\Debug\net10.0-windows\bai4.4.AssemblyInfoInputs.cache
+D:\Documents\C#\bai4.4\bai4.4\obj\Debug\net10.0-windows\bai4.4.AssemblyInfo.cs
+D:\Documents\C#\bai4.4\bai4.4\obj\Debug\net10.0-windows\bai4.4.csproj.CoreCompileInputs.cache
+D:\Documents\C#\bai4.4\bai4.4\bin\Debug\net10.0-windows\bai4.4.exe
+D:\Documents\C#\bai4.4\bai4.4\bin\Debug\net10.0-windows\bai4.4.deps.json
+D:\Documents\C#\bai4.4\bai4.4\bin\Debug\net10.0-windows\bai4.4.runtimeconfig.json
+D:\Documents\C#\bai4.4\bai4.4\bin\Debug\net10.0-windows\bai4.4.dll
+D:\Documents\C#\bai4.4\bai4.4\bin\Debug\net10.0-windows\bai4.4.pdb
+D:\Documents\C#\bai4.4\bai4.4\obj\Debug\net10.0-windows\bai4._4.Form1.resources
+D:\Documents\C#\bai4.4\bai4.4\obj\Debug\net10.0-windows\bai4.4.dll
+D:\Documents\C#\bai4.4\bai4.4\obj\Debug\net10.0-windows\refint\bai4.4.dll
+D:\Documents\C#\bai4.4\bai4.4\obj\Debug\net10.0-windows\bai4.4.pdb
+D:\Documents\C#\bai4.4\bai4.4\obj\Debug\net10.0-windows\bai4.4.genruntimeconfig.cache
+D:\Documents\C#\bai4.4\bai4.4\obj\Debug\net10.0-windows\ref\bai4.4.dll
+D:\Documents\C#\bai4.4\bai4.4\obj\Debug\net10.0-windows\bai4.4.csproj.Up2Date

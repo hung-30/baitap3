@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\C#\\bai4.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A173388-0DE0-4C2C-9F73-F5EDEAD06A23}|bai4.4\\bai4.4.csproj|d:\\documents\\c#\\bai4.4\\bai4.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A173388-0DE0-4C2C-9F73-F5EDEAD06A23}|bai4.4\\bai4.4.csproj|solutionrelative:bai4.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A173388-0DE0-4C2C-9F73-F5EDEAD06A23}|bai4.4\\bai4.4.csproj|d:\\documents\\c#\\bai4.4\\bai4.4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A173388-0DE0-4C2C-9F73-F5EDEAD06A23}|bai4.4\\bai4.4.csproj|solutionrelative:bai4.4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A173388-0DE0-4C2C-9F73-F5EDEAD06A23}|bai4.4\\bai4.4.csproj|d:\\documents\\c#\\bai4.4\\bai4.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A173388-0DE0-4C2C-9F73-F5EDEAD06A23}|bai4.4\\bai4.4.csproj|solutionrelative:bai4.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\bai4.4\\bai4.4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "bai4.4\\Form1.Designer.cs",
+              "ToolTip": "D:\\Documents\\C#\\bai4.4\\bai4.4\\Form1.Designer.cs",
+              "RelativeToolTip": "bai4.4\\Form1.Designer.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAcwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T13:06:33.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\bai4.4\\bai4.4\\Form1.cs",
+              "RelativeDocumentMoniker": "bai4.4\\Form1.cs",
+              "ToolTip": "D:\\Documents\\C#\\bai4.4\\bai4.4\\Form1.cs",
+              "RelativeToolTip": "bai4.4\\Form1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T13:00:48.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\C#\\bai4.4\\bai4.4\\Form1.cs",
+              "RelativeDocumentMoniker": "bai4.4\\Form1.cs",
+              "ToolTip": "D:\\Documents\\C#\\bai4.4\\bai4.4\\Form1.cs [Design]",
+              "RelativeToolTip": "bai4.4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T12:56:43.926Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
