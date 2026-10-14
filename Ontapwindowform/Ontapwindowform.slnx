@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="bai1(Service Charge Calculator)/bai1(Service Charge Calculator).csproj" Id="d7da4f2d-1cda-4367-9be5-b84c4950cf0b" />
+  <Project Path="bai2(IT Support Ticket Form)/bai2(IT Support Ticket Form).csproj" Id="57832972-24c8-40a4-9354-e3eadb75cf9c" />
+  <Project Path="bai3(Item List Manager)/bai3(Item List Manager).csproj" Id="621ca9f3-21ef-41b0-abff-656fb4bb796b" />
+  <Project Path="bai4(Interactive Slot Booking)/bai4(Interactive Slot Booking).csproj" Id="da58bce6-3e6c-4383-a4b1-6a94d07cf0af" />
+  <Project Path="bai5(Delivery Order Dashboard)/bai5(Delivery Order Dashboard).csproj" Id="f4831c52-5d30-47ad-a7b4-4f05ffa2f256" />
+  <Project Path="Ontapwindowform/Ontapwindowform.csproj" />
+</Solution>
