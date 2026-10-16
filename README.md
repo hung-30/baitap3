@@ -1,7 +1,7 @@
 # BÁO CÁO BÀI TẬP
 
 ## THÔNG TIN SINH VIÊN
-- **Họ và tên:** Phạm Hữu hưng
+- **Họ và tên:** Phạm Hữu Hưng
 - **Mã số sinh viên:** 24810310239
 - **Lớp:** D19CNPM3
 - **Tên môn học:** Lập trình .NET
